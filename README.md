@@ -1,0 +1,5 @@
+# 2022-2023 Football Player Stats
+
+## Descripción
+
+El conjunto de datos analizado contiene informaci ́on de las principales ligas de fútbol correspondiente a la temporada 2022/23, incluyendo la Premier League Inglesa, La Liga Española, la Bundesliga, la Serie A y la Ligue 1. Estos datos proporcionan detalles sobre los jugadores, como sus nombres, clubes, posiciones, goles, tackles, porcentaje de tiros a puerta, entre otros. Resulta de gran interés para analistas y aficionados al fútbol, ya que les permite evaluar el rendimiento de los jugadores en estas ligas utilizando diversas variables. Los datos abarcan desde agosto de 2022 hasta febrero de 2023. Dataset disponible [aquí](https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats?select=2022-2023+Football+Player+Stats.csv)
